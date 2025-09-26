@@ -1,5 +1,7 @@
 # Five_Bar_Bistable
-This project contains STL. files for multiple Five-bar complaint mechanisms with bistability properties.
+This project contains STL. files for multiple Five-bar complaint mechanisms with bistability properties, simetric and asimetric.
+
+The asimetric mechanism was designed using optimal design based in the energy of the system.
 
 Photos of the uploaded mechanisms are shown:
 
